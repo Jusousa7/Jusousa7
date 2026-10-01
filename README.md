@@ -2,11 +2,11 @@
 
 _Me chamo Julia De Sousa Leite_
 
-- Estou estudando programação na AluraStart
-- Me desenvolvendo em JavaScript
+- Estou estudando Excel e talvez futuramente outras áreas da tecnologia
+- Fazendo curso na DIO
 - utilizarei deste espaço para compartilhar meus projetos
 
   ### Você pode entrar em contato comigo através do meu e-mail 📫
   
-  00001111281828sp@al.educacao.sp.gov.br
+  juleite236@gmail.com
   
